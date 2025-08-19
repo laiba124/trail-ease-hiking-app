@@ -44,12 +44,6 @@ This project is currently a **conceptual design** developed as part of a univers
 
 ---
 
-## 📷 Screenshots / Documents
-
-📁 _You can add screenshots of UI designs, documentation, or flow diagrams here._
-
----
-
 ## 👩‍💻 My Role
 
 - Planned key features & system functionality
